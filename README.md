@@ -26,9 +26,9 @@ O sistema deve possuir dois papéis para as pessoas que vão o utilizar com perm
 Abaixo são especificadas regras que incidem sobre o usuo do sistema:
 - [ ] A pessoa usuária não pode alterar seu e-mail
 - [ ] O e-mail da pessoa usuária deve ser do domínio @aluno.feliz.ifrs.edu.br
-- [ ] Um item consiste em uma imagem de algo
+- [x] Um item consiste em uma imagem de algo
 - [ ] O ranking deve ser ordenado pelo número de avaliações positivas ou negativas
-- [ ] O sistema deve iniciar com pelo menos 15 itens cadastrados
+- [x] O sistema deve iniciar com pelo menos 15 itens cadastrados
 
 ### Instruções fundamentais
 - A entrega do projeto será realizada via repositório do github.
