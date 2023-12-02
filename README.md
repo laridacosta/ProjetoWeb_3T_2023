@@ -9,17 +9,17 @@ O sistema deve possuir dois papéis para as pessoas que vão o utilizar com perm
 
 #### Pessoa usuária
 - [ ] Criar e editar informações de pessoa usuária (e-mail, senha, nome)
-- [ ] Fazer login e logout no sistema
+- [x] Fazer login e logout no sistema
 - [x] Classificar itens (Indicar se gosta de uma série, se comeria uma comida, etc).
 - [ ] Visualizar rankings dos itens classificados como mais queridos
 - [ ] Visualizar rankings dos itens classificados como menos queridos
-- [ ] Ordenar de forma crescente ou decrescente os rankings de classificações
+- [x] Ordenar de forma crescente ou decrescente os rankings de classificações
 
 #### Gerente
 - [x] A pessoa que será gerente deve ser cadastrada no banco previamente (user: admin e password: senha123)
 - [x] Fazer login e logout no sistema
 - [x] Visualizar ranking dos itens classificados
-- [ ] Ordenar de forma crescente ou decrescente o ranking de classificações
+- [x] Ordenar de forma crescente ou decrescente o ranking de classificações
 - [x] Listar, adicionar, editar e excluir itens
 
 ### Regras de negócio
@@ -27,7 +27,7 @@ Abaixo são especificadas regras que incidem sobre o usuo do sistema:
 - [ ] A pessoa usuária não pode alterar seu e-mail
 - [ ] O e-mail da pessoa usuária deve ser do domínio @aluno.feliz.ifrs.edu.br
 - [x] Um item consiste em uma imagem de algo
-- [ ] O ranking deve ser ordenado pelo número de avaliações positivas ou negativas
+- [x] O ranking deve ser ordenado pelo número de avaliações positivas ou negativas
 - [x] O sistema deve iniciar com pelo menos 15 itens cadastrados
 
 ### Instruções fundamentais
