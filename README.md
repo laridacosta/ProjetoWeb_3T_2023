@@ -25,7 +25,7 @@ O sistema deve possuir dois papéis para as pessoas que vão o utilizar com perm
 ### Regras de negócio
 Abaixo são especificadas regras que incidem sobre o usuo do sistema:
 - [ ] A pessoa usuária não pode alterar seu e-mail
-- [ ] O e-mail da pessoa usuária deve ser do domínio @aluno.feliz.ifrs.edu.br
+- [x] O e-mail da pessoa usuária deve ser do domínio @aluno.feliz.ifrs.edu.br
 - [x] Um item consiste em uma imagem de algo
 - [x] O ranking deve ser ordenado pelo número de avaliações positivas ou negativas
 - [x] O sistema deve iniciar com pelo menos 15 itens cadastrados
